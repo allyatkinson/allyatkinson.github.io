@@ -1,0 +1,19 @@
+*{
+	text-align: center;
+	font-family: sans-serif;
+}
+body{
+	background-color: #F9EBF4;
+}
+.header{
+	background-color: #F9EBF4;
+	padding: 50px;
+	font-size: 20pt;
+	background-image: url("imgs/barnwood.jpg");
+	background-repeat: repeat;
+	color: #E7D6E1;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	font-s
